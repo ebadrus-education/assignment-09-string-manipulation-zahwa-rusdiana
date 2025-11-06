@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    string teks = "Putri";
-    teks[0] = toupper(teks[0]);   
+    string nama = "Putri";
+    nama[0] = toupper(nama[0]);   
     cout << teks;
 }
