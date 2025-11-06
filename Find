@@ -1,0 +1,9 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    string nama = "Putri Zahwa";
+    int posisi = nama.find("Zahwa");
+
+    cout << "Posisi: " << posisi; 
+}
